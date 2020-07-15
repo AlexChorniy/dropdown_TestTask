@@ -1,0 +1,13 @@
+html{
+    height:100%;
+}
+
+body{
+    min-height: 100%;
+    background-color:  #216190;
+}
+
+#root {
+   min-height: 100vh;
+   background: linear-gradient(233.1deg, #216190 19.65%, #0834D0 81.25%);
+}
